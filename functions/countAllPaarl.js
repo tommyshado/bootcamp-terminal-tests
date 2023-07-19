@@ -1,6 +1,6 @@
 
 
-export default countAllPaarl = strRegNum => {
+export default strRegNum => {
     let splStr = strRegNum.split(", ");
   	let counter = 0;
   

@@ -1,5 +1,5 @@
 import assert from "assert"
-import isWeekday from "../functions/isWeekday"
+import isWeekday from "../functions/isWeekday.js"
 
 describe('isWeekday', () => {
 

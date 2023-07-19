@@ -1,5 +1,5 @@
 import assert from "assert"
-import findItemsOver from "../functions/findItemsOver"
+import findItemsOver from "../functions/findItemsOver.js"
 
 describe('findItemsOver', () => {
 

@@ -1,5 +1,5 @@
 import assert from "assert"
-import transportFee from "../functions/transportFee"
+import transportFee from "../functions/transportFee.js"
 
 describe('transportFee', () => {
 

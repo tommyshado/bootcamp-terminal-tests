@@ -1,1 +1,1 @@
-export default greet = name => `Hello, ${name}`;
+export default name => `Hello, ${name}`;

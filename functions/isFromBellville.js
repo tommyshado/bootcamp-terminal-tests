@@ -1,2 +1,2 @@
 
-export default isFromBellville = vehicle => vehicle.startsWith('CY');
+export default vehicle => vehicle.startsWith('CY');

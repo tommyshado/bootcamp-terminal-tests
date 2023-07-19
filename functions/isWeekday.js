@@ -1,1 +1,1 @@
-export default isWeekday = weekDays => !(weekDays.startsWith('S'));
+export default weekDays => !(weekDays.startsWith('S'));

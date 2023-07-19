@@ -1,5 +1,5 @@
 import assert from "assert"
-import countAllPaarl from "../functions/countAllPaarl"
+import countAllPaarl from "../functions/countAllPaarl.js"
 
 describe('countAllPaarl', () => {
 

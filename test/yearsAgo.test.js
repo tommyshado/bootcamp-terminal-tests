@@ -1,5 +1,5 @@
 import assert from "assert"
-import yearsAgo from "../functions/yearsAgo"
+import yearsAgo from "../functions/yearsAgo.js"
 
 describe('yearsAgo', () => {
 

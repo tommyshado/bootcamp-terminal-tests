@@ -1,5 +1,5 @@
 import assert from "assert"
-import greet from "../functions/greet";
+import greet from "../functions/greet.js";
 
 
 describe("The GREET function", () => {

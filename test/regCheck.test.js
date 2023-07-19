@@ -1,5 +1,5 @@
 import assert from "assert"
-import regCheck from "../functions/regCheck"
+import regCheck from "../functions/regCheck.js"
 
 describe('regCheck', () => {
 

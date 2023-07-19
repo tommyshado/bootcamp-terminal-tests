@@ -1,5 +1,5 @@
 import assert from "assert"
-import countRegNumber from "../functions/countRegNumber"
+import countRegNumber from "../functions/countRegNumber.js"
 
 describe('countRegNumber', () => {
     it('is a function', () => {

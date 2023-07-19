@@ -1,4 +1,4 @@
-export default mostProfitableDepartment = salesData => {
+export default salesData => {
     let departmentDic = {}
     
     for (let i = 0; i < salesData.length; i++) {

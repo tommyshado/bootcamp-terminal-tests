@@ -1,6 +1,6 @@
 
 
-export default findItemsOver20 = lstItems => {
+export default lstItems => {
     const results = [];
 
     for (let i = 0; i < lstItems.length; i++) {

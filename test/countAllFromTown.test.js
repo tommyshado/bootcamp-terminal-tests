@@ -1,5 +1,5 @@
 import assert from "assert"
-import countAllFromTown from "../functions/countAllFromTown"
+import countAllFromTown from "../functions/countAllFromTown.js"
 
 describe('countAllFromTown', () => {
 

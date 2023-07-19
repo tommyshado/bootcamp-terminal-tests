@@ -1,6 +1,6 @@
 
 
-export default fromWhere = regNum => {
+export default regNum => {
 	let regNumBell = regNum.startsWith("CY");
   	let regNumPaarl = regNum.startsWith("CJ");
   	let regNumCap = regNum.startsWith("CA");

@@ -1,5 +1,5 @@
 import assert from "assert"
-import fromWhere from "../functions/fromWhere"
+import fromWhere from "../functions/fromWhere.js"
 
 describe('fromWhere', () => {
     it('is a function', () => {

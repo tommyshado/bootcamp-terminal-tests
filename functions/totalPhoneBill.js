@@ -1,4 +1,4 @@
-export default totalPhoneBill = callsMadeSmsSent => {
+export default callsMadeSmsSent => {
 	let smsAndCallArr = callsMadeSmsSent.split(', ');
 	let smsAndCallSum = 0;
 

@@ -1,5 +1,5 @@
 import assert from "assert"
-import findItemsOver20 from "../functions/findItemsOver20"
+import findItemsOver20 from "../functions/findItemsOver20.js"
 
 describe('findItemsOver20', () => {
     it('is a function', () => {

@@ -1,5 +1,5 @@
 import assert from "assert"
-import totalPhoneBill from "../functions/totalPhoneBill"
+import totalPhoneBill from "../functions/totalPhoneBill.js"
 
 describe('totalPhoneBill', () => {
 

@@ -1,6 +1,6 @@
 
 
-export default findItemsOver = (itemsLst, itemsAvailable) => {
+export default (itemsLst, itemsAvailable) => {
 	let results = [];
   
   	for (let i = 0; i < itemsLst.length; i++) {

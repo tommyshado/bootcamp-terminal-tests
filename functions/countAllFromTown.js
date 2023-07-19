@@ -1,6 +1,6 @@
 
 
-export default countAllFromTown = (strRegNum, locat) => {
+export default (strRegNum, locat) => {
     let splittedStrReg = strRegNum.split(",");
     let counter = 0;
   
