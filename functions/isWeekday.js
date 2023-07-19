@@ -1,0 +1,1 @@
+export default isWeekday = weekDays => !(weekDays.startsWith('S'));

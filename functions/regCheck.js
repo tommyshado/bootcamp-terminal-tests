@@ -1,0 +1,1 @@
+export default regCheck = (regNum, regLocator) => regNum.endsWith(regLocator);

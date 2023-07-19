@@ -1,0 +1,1 @@
+export default transportFee = shift => shift === 'morning' ? 'R20' : shift === 'afternoon' ? 'R10' : 'free';
